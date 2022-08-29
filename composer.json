@@ -1,0 +1,26 @@
+{
+    "name": "archive/devboard",
+    "description": "Prototype of my devboard to practice PHP 7 without framework.",
+    "type": "project",
+    "homepage": "https://github.com/kserbouty/devboard-archive",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Karim Serbouty",
+            "email": "kserbouty.dev@protonmail.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/kserbouty/devboard-archive/issues",
+        "email": "kserbouty.dev@protonmail.com"
+    },
+    "require": {
+        "ext-pdo": "*",
+        "ext-ctype": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Devboard\\": "src/"
+        }
+    }
+}
