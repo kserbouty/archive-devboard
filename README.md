@@ -10,7 +10,7 @@
 
 ## Introduction
 
-Prototype of my [devboard](https://github.com/kserbouty/devboard) to practice PHP 7 without framework.
+Prototype of [Another Devboard](https://github.com/kserbouty/another-devboard) to practice PHP 7 without framework.
 
 ## Installation
 
