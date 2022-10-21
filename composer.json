@@ -1,6 +1,5 @@
 {
     "name": "archive/devboard",
-    "description": "Prototype of my devboard to practice PHP 7 without framework.",
     "type": "project",
     "homepage": "https://github.com/kserbouty/devboard-archive",
     "license": "MIT",

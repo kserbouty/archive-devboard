@@ -1,16 +1,4 @@
-# Devboard Archive
-
-- [Devboard Archive](#devboard-archive)
-  - [Introduction](#introduction)
-  - [Installation](#installation)
-    - [Requirements](#requirements)
-    - [Local Installation](#local-installation)
-  - [Authors](#authors)
-  - [License](#license)
-
-## Introduction
-
-Prototype of [Another Devboard](https://github.com/kserbouty/another-devboard) in order to practice PHP 7.
+# Devboard (Prototype)
 
 ## Installation
 
@@ -32,10 +20,10 @@ Prototype of [Another Devboard](https://github.com/kserbouty/another-devboard) i
 composer install
 ```
 
-3° Run your server on <http://localhost:8001>
+3° Run your server on <http://localhost:8000>
 
 ```bash
-php -S localhost:8001 -t public
+php -S localhost:8000-t public
 ```
 
 ## Authors
