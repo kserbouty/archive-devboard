@@ -1,34 +1,32 @@
-# Devboard (Prototype)
+# Devboard (archive)
+
+---
+
+## Requirements
+
+- Apache Server 2.4+
+- PHP 7.4.5+
+- MySQL 8+
 
 ## Installation
 
-### Requirements
+First import the database.sql in your environment, then set your credentials in the config.ini.
 
-- Apache Server >=2.4
-- PHP >=7.4 with Composer
-- MySQL >=8.0
-
-### Local Installation
-
-1° Import the database.sql in your environment
-
-2° Set your database in the config.ini
-
-3° Install the dependencies
+Install all the dependencies using composer
 
 ```bash
 composer install
 ```
 
-3° Run your server on <http://localhost:8000>
+Run the local server
 
 ```bash
 php -S localhost:8000-t public
 ```
 
-## Authors
+The website can be accessed on <http://localhost:8000>
 
-Karim Serbouty
+---
 
 ## License
 
