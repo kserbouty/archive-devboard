@@ -10,7 +10,19 @@
 
 ## Installation
 
-First import the database.sql in your environment, then set your credentials in the config.ini.
+Clone the repository
+
+```bash
+git clone https://github.com/kserbouty/archive-devboard.git
+```
+
+Switch to the repository folder
+
+```bash
+cd archive-devboard
+```
+
+Import the database.sql in your environment, then set your credentials in the config.ini.
 
 Install all the dependencies using composer
 
